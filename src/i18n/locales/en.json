@@ -1,0 +1,195 @@
+{
+  "nav": {
+    "explore": "🔍 Explore",
+    "sell": "💰 Sell",
+    "free": "🎁 Free",
+    "createAccount": "✨ Create Account"
+  },
+  "auth": {
+    "welcome": "Welcome to PurpleShop",
+    "continueWithGoogle": "Continue with Google",
+    "continueWithMicrosoft": "Continue with Microsoft",
+    "continueWithApple": "Continue with Apple",
+    "continueWithFacebook": "Continue with Facebook",
+    "continueWithTwitter": "Continue with X (Twitter)",
+    "termsNotice": "By continuing, you agree to our Terms of Service and Privacy Policy"
+  },
+  "hero": {
+    "title": "♻️ The cycle continues with PurpleShop",
+    "subtitle": "Buy, sell and give away. The cycle continues",
+    "searchPlaceholder": "🔎 What are you looking for?"
+  },
+  "about": {
+    "title": "Our Story",
+    "beginnings": {
+      "title": "The Beginnings",
+      "content": "PurpleShop was born in 2025 with a clear vision: to transform the way people buy, sell, and share objects. Founded by a group of entrepreneurs passionate about the circular economy, our platform started as a small local community in Madrid."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "content": "At PurpleShop, we believe in a future where conscious consumption and reuse are the norm, not the exception. Our mission is to facilitate meaningful connections between people, enabling them to give objects a second life and build a more sustainable community."
+    },
+    "values": {
+      "title": "Core Values",
+      "sustainability": {
+        "title": "Sustainability",
+        "content": "We actively promote reuse and responsible consumption."
+      },
+      "community": {
+        "title": "Community",
+        "content": "We build meaningful connections between people."
+      },
+      "innovation": {
+        "title": "Innovation",
+        "content": "We constantly improve our platform experience."
+      }
+    },
+    "future": {
+      "title": "Looking to the Future",
+      "content": "We continue to innovate and expand our platform, always with the goal of making second-hand buying-selling and object donation more accessible and attractive to everyone. Together, we are building a more sustainable future."
+    }
+  },
+  "impact": {
+    "title": "Social Impact",
+    "commitment": {
+      "title": "Our Commitment to Society",
+      "content": "At PurpleShop, our social impact goes beyond facilitating transactions. We strive to create positive change in society and the environment through various initiatives and programs."
+    },
+    "metrics": {
+      "environmental": {
+        "title": "Environmental Impact",
+        "content": "We have helped significantly reduce carbon footprint by promoting product reuse.",
+        "metric": "50,000+",
+        "label": "Tons of CO₂ avoided"
+      },
+      "community": {
+        "title": "Community",
+        "content": "We build an active community of people committed to responsible consumption.",
+        "metric": "1M+",
+        "label": "Active users"
+      },
+      "circular": {
+        "title": "Circular Economy",
+        "content": "We actively promote the circular economy through our platform.",
+        "metric": "100K+",
+        "label": "Monthly transactions"
+      }
+    },
+    "programs": {
+      "title": "Social Programs",
+      "education": {
+        "title": "PurpleShop Education",
+        "content": "Educational program promoting responsible consumption and sustainability in schools and universities."
+      },
+      "community": {
+        "title": "Community Initiative",
+        "content": "We collaborate with local organizations to facilitate item donation to people in need."
+      },
+      "entrepreneurship": {
+        "title": "Social Entrepreneurship",
+        "content": "We support social entrepreneurs who promote the circular economy in their communities."
+      }
+    },
+    "sdgs": {
+      "title": "Sustainable Development Goals",
+      "content": "Our initiatives are aligned with the United Nations Sustainable Development Goals:",
+      "climate": "Climate Action",
+      "production": "Responsible Production",
+      "partnerships": "Partnerships",
+      "sustainable": "Sustainable Living"
+    }
+  },
+  "categories": {
+    "title": "📦 Categories",
+    "free": {
+      "title": "🎁 Free",
+      "description": "Find items being given away near you"
+    },
+    "secondHand": {
+      "title": "♻️ Second Hand",
+      "description": "Used products in excellent condition"
+    },
+    "new": {
+      "title": "✨ New",
+      "description": "Brand new products"
+    }
+  },
+  "register": {
+    "title": "✨ Create an account",
+    "fullName": "👤 Full Name",
+    "fullNamePlaceholder": "Your full name",
+    "email": "📧 Email",
+    "emailPlaceholder": "you@email.com",
+    "password": "🔒 Password",
+    "city": "📍 City",
+    "cityPlaceholder": "Which city do you live in?",
+    "submit": "✨ Create Account",
+    "terms": "By creating an account, you agree to our terms and conditions"
+  },
+  "features": {
+    "freeItems": {
+      "title": "🎁 Free Items",
+      "description": "Find items being given away near you. Everything free!"
+    },
+    "location": {
+      "title": "📍 In Your Area",
+      "description": "Discover products near you. Filter by location and find what you need"
+    },
+    "secondHand": {
+      "title": "♻️ Used Products",
+      "description": "Buy and sell second-hand items in excellent condition"
+    }
+  },
+  "featured": {
+    "title": "⭐ Featured Free Items",
+    "location": "📍 Location"
+  },
+  "footer": {
+    "company": {
+      "title": "🏢 Company",
+      "about": "ℹ️ About PurpleShop",
+      "careers": "💼 Careers",
+      "press": "📰 Press",
+      "impact": "🌍 Social Impact",
+      "sustainability": "🌱 Sustainability"
+    },
+    "support": {
+      "title": "🆘 Support",
+      "help": "❓ Help Center",
+      "contact": "📞 Contact Us",
+      "safety": "🛡️ Safe Shopping",
+      "report": "⚠️ Report Issue"
+    },
+    "buyers": {
+      "title": "🛒 Buyers",
+      "how": "📖 How to Buy",
+      "safety": "🔒 Safe Shopping",
+      "protection": "🛡️ Buyer Protection",
+      "app": "📱 Buyer's App"
+    },
+    "sellers": {
+      "title": "💰 Sellers",
+      "how": "📖 How to Sell",
+      "rules": "📋 Listing Rules",
+      "fees": "💵 Fees",
+      "pro": "⭐ PurpleShop Pro",
+      "app": "📱 Seller's App"
+    },
+    "payments": {
+      "title": "💳 Payment Methods",
+      "cards": "💳 Credit/Debit Cards",
+      "paypal": "🅿️ PayPal",
+      "transfer": "🏦 Bank Transfer",
+      "security": "🔒 Secure Payments"
+    },
+    "legal": {
+      "title": "⚖️ Legal",
+      "terms": "📜 Terms & Conditions",
+      "privacy": "🔐 Privacy Policy",
+      "cookies": "🍪 Cookie Policy",
+      "legal": "⚖️ Legal Notice"
+    },
+    "address": "📍 123 Main Street, London, UK",
+    "copyright": "©️ 2025 PurpleShop. All rights reserved."
+  }
+}

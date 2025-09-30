@@ -1,0 +1,115 @@
+{
+  "nav": {
+    "explore": "🔍 Explorer",
+    "sell": "💰 Vendre",
+    "free": "🎁 Gratuit",
+    "createAccount": "✨ Créer un compte"
+  },
+  "auth": {
+    "welcome": "Bienvenue sur PurpleShop",
+    "continueWithGoogle": "Continuer avec Google",
+    "continueWithMicrosoft": "Continuer avec Microsoft",
+    "continueWithApple": "Continuer avec Apple",
+    "continueWithFacebook": "Continuer avec Facebook",
+    "continueWithTwitter": "Continuer avec X (Twitter)",
+    "termsNotice": "En continuant, vous acceptez nos Conditions d'utilisation et notre Politique de confidentialité"
+  },
+  "hero": {
+    "title": "♻️ Une seconde chance est possible avec ReVida",
+    "subtitle": "Achetez, vendez et donnez. Donnez une nouvelle vie aux objets que vous n'utilisez plus",
+    "searchPlaceholder": "🔎 Que recherchez-vous ?"
+  },
+  "categories": {
+    "title": "📦 Catégories",
+    "free": {
+      "title": "🎁 Gratuit",
+      "description": "Trouvez des objets donnés près de chez vous"
+    },
+    "secondHand": {
+      "title": "♻️ Occasion",
+      "description": "Produits d'occasion en excellent état"
+    },
+    "new": {
+      "title": "✨ Neuf",
+      "description": "Produits entièrement neufs"
+    }
+  },
+  "register": {
+    "title": "✨ Créer un compte",
+    "fullName": "👤 Nom complet",
+    "fullNamePlaceholder": "Votre nom complet",
+    "email": "📧 E-mail",
+    "emailPlaceholder": "vous@email.com",
+    "password": "🔒 Mot de passe",
+    "city": "📍 Ville",
+    "cityPlaceholder": "Dans quelle ville habitez-vous ?",
+    "submit": "✨ Créer un compte",
+    "terms": "En créant un compte, vous acceptez nos conditions d'utilisation"
+  },
+  "features": {
+    "freeItems": {
+      "title": "🎁 Articles Gratuits",
+      "description": "Trouvez des objets donnés près de chez vous. Tout est gratuit !"
+    },
+    "location": {
+      "title": "📍 Dans Votre Zone",
+      "description": "Découvrez des produits près de chez vous. Filtrez par lieu et trouvez ce dont vous avez besoin"
+    },
+    "secondHand": {
+      "title": "♻️ Produits d'Occasion",
+      "description": "Achetez et vendez des articles d'occasion en excellent état"
+    }
+  },
+  "featured": {
+    "title": "⭐ Articles Gratuits en Vedette",
+    "location": "📍 Lieu"
+  },
+  "footer": {
+    "company": {
+      "title": "Entreprise",
+      "about": "À propos de ReVida",
+      "careers": "Carrières",
+      "press": "Presse",
+      "impact": "Impact Social",
+      "sustainability": "Développement Durable"
+    },
+    "support": {
+      "title": "Support",
+      "help": "Centre d'Aide",
+      "contact": "Contact",
+      "safety": "Achats Sécurisés",
+      "report": "Signaler un Problème"
+    },
+    "buyers": {
+      "title": "Acheteurs",
+      "how": "Comment Acheter",
+      "safety": "Achats Sécurisés",
+      "protection": "Protection Acheteur",
+      "app": "App Acheteurs"
+    },
+    "sellers": {
+      "title": "Vendeurs",
+      "how": "Comment Vendre",
+      "rules": "Règles de Publication",
+      "fees": "Commissions",
+      "pro": "ReVida Pro",
+      "app": "App Vendeurs"
+    },
+    "payments": {
+      "title": "Moyens de Paiement",
+      "cards": "Cartes Crédit/Débit",
+      "paypal": "PayPal",
+      "transfer": "Virement Bancaire",
+      "security": "Paiements Sécurisés"
+    },
+    "legal": {
+      "title": "Légal",
+      "terms": "Conditions Générales",
+      "privacy": "Politique de Confidentialité",
+      "cookies": "Politique de Cookies",
+      "legal": "Mentions Légales"
+    },
+    "address": "123 Rue Principale, 75001 Paris, France",
+    "copyright": "© 2025 ReVida. Tous droits réservés."
+  }
+}

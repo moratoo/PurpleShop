@@ -1,0 +1,115 @@
+{
+  "nav": {
+    "explore": "🔍 Explorar",
+    "sell": "💰 Vender",
+    "free": "🎁 Gratis",
+    "createAccount": "✨ Crear Cuenta"
+  },
+  "auth": {
+    "welcome": "Bienvenido a PurpleShop",
+    "continueWithGoogle": "Continuar con Google",
+    "continueWithMicrosoft": "Continuar con Microsoft",
+    "continueWithApple": "Continuar con Apple",
+    "continueWithFacebook": "Continuar con Facebook",
+    "continueWithTwitter": "Continuar con X (Twitter)",
+    "termsNotice": "Al continuar, aceptas nuestros Términos de Servicio y Política de Privacidad"
+  },
+  "hero": {
+    "title": "♻️ El ciclo continúa con PurpleShop",
+    "subtitle": "Compra, vende y regala. El ciclo continúa",
+    "searchPlaceholder": "🔎 ¿Qué estás buscando?"
+  },
+  "categories": {
+    "title": "📦 Categorías",
+    "free": {
+      "title": "🎁 Gratis",
+      "description": "Encuentra objetos que están regalando cerca de ti"
+    },
+    "secondHand": {
+      "title": "♻️ Segunda Mano",
+      "description": "Productos usados en excelente estado"
+    },
+    "new": {
+      "title": "✨ Nuevo",
+      "description": "Productos completamente nuevos"
+    }
+  },
+  "register": {
+    "title": "✨ Crear una cuenta",
+    "fullName": "👤 Nombre Completo",
+    "fullNamePlaceholder": "Tu nombre completo",
+    "email": "📧 Correo Electrónico",
+    "emailPlaceholder": "tu@email.com",
+    "password": "🔒 Contraseña",
+    "city": "📍 Ciudad",
+    "cityPlaceholder": "¿En qué ciudad vives?",
+    "submit": "✨ Crear Cuenta",
+    "terms": "Al crear una cuenta, aceptas nuestros términos y condiciones"
+  },
+  "features": {
+    "freeItems": {
+      "title": "🎁 Artículos Gratis",
+      "description": "Encuentra objetos que están regalando cerca de ti. ¡Todo gratis!"
+    },
+    "location": {
+      "title": "📍 En Tu Zona",
+      "description": "Descubre productos cerca de ti. Filtra por ubicación y encuentra lo que necesitas"
+    },
+    "secondHand": {
+      "title": "♻️ Productos Usados",
+      "description": "Compra y vende artículos de segunda mano en excelente estado"
+    }
+  },
+  "featured": {
+    "title": "⭐ Artículos Gratis Destacados",
+    "location": "📍 Ubicación"
+  },
+  "footer": {
+    "company": {
+      "title": "🏢 Empresa",
+      "about": "ℹ️ Sobre PurpleShop",
+      "careers": "💼 Empleo",
+      "press": "📰 Prensa",
+      "impact": "🌍 Impacto Social",
+      "sustainability": "🌱 Sostenibilidad"
+    },
+    "support": {
+      "title": "🆘 Soporte",
+      "help": "❓ Centro de Ayuda",
+      "contact": "📞 Contactar",
+      "safety": "🛡️ Compra Segura",
+      "report": "⚠️ Reportar Problema"
+    },
+    "buyers": {
+      "title": "🛒 Compradores",
+      "how": "📖 Cómo Comprar",
+      "safety": "🔒 Compra Segura",
+      "protection": "🛡️ Protección al Comprador",
+      "app": "📱 App para Compradores"
+    },
+    "sellers": {
+      "title": "💰 Vendedores",
+      "how": "📖 Cómo Vender",
+      "rules": "📋 Reglas de Publicación",
+      "fees": "💵 Comisiones",
+      "pro": "⭐ PurpleShop Pro",
+      "app": "📱 App para Vendedores"
+    },
+    "payments": {
+      "title": "💳 Métodos de Pago",
+      "cards": "💳 Tarjetas de Crédito/Débito",
+      "paypal": "🅿️ PayPal",
+      "transfer": "🏦 Transferencia Bancaria",
+      "security": "🔒 Pagos Seguros"
+    },
+    "legal": {
+      "title": "⚖️ Legal",
+      "terms": "📜 Términos y Condiciones",
+      "privacy": "🔐 Política de Privacidad",
+      "cookies": "🍪 Política de Cookies",
+      "legal": "⚖️ Aviso Legal"
+    },
+    "address": "📍 Calle Principal 123, 28001 Madrid, España",
+    "copyright": "©️ 2025 PurpleShop. Todos los derechos reservados."
+  }
+}

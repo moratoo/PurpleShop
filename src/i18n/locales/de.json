@@ -1,0 +1,115 @@
+{
+  "nav": {
+    "explore": "🔍 Entdecken",
+    "sell": "💰 Verkaufen",
+    "free": "🎁 Kostenlos",
+    "createAccount": "✨ Konto erstellen"
+  },
+  "auth": {
+    "welcome": "Willkommen bei PurpleShop",
+    "continueWithGoogle": "Mit Google fortfahren",
+    "continueWithMicrosoft": "Mit Microsoft fortfahren",
+    "continueWithApple": "Mit Apple fortfahren",
+    "continueWithFacebook": "Mit Facebook fortfahren",
+    "continueWithTwitter": "Mit X (Twitter) fortfahren",
+    "termsNotice": "Durch das Fortfahren stimmen Sie unseren Nutzungsbedingungen und der Datenschutzerklärung zu"
+  },
+  "hero": {
+    "title": "♻️ Eine zweite Chance ist möglich mit ReVida",
+    "subtitle": "Kaufen, verkaufen und verschenken. Geben Sie nicht mehr genutzten Gegenständen ein neues Leben",
+    "searchPlaceholder": "🔎 Wonach suchen Sie?"
+  },
+  "categories": {
+    "title": "📦 Kategorien",
+    "free": {
+      "title": "🎁 Kostenlos",
+      "description": "Finden Sie Artikel, die in Ihrer Nähe verschenkt werden"
+    },
+    "secondHand": {
+      "title": "♻️ Gebraucht",
+      "description": "Gebrauchte Produkte in ausgezeichnetem Zustand"
+    },
+    "new": {
+      "title": "✨ Neu",
+      "description": "Brandneue Produkte"
+    }
+  },
+  "register": {
+    "title": "✨ Konto erstellen",
+    "fullName": "👤 Vollständiger Name",
+    "fullNamePlaceholder": "Ihr vollständiger Name",
+    "email": "📧 E-Mail",
+    "emailPlaceholder": "sie@email.com",
+    "password": "🔒 Passwort",
+    "city": "📍 Stadt",
+    "cityPlaceholder": "In welcher Stadt leben Sie?",
+    "submit": "✨ Konto erstellen",
+    "terms": "Mit der Erstellung eines Kontos stimmen Sie unseren Nutzungsbedingungen zu"
+  },
+  "features": {
+    "freeItems": {
+      "title": "🎁 Kostenlose Artikel",
+      "description": "Finden Sie Artikel, die in Ihrer Nähe verschenkt werden. Alles kostenlos!"
+    },
+    "location": {
+      "title": "📍 In Ihrer Nähe",
+      "description": "Entdecken Sie Produkte in Ihrer Nähe. Filtern Sie nach Standort und finden Sie, was Sie brauchen"
+    },
+    "secondHand": {
+      "title": "♻️ Gebrauchte Produkte",
+      "description": "Kaufen und verkaufen Sie gebrauchte Artikel in ausgezeichnetem Zustand"
+    }
+  },
+  "featured": {
+    "title": "⭐ Kostenlose Artikel im Fokus",
+    "location": "📍 Standort"
+  },
+  "footer": {
+    "company": {
+      "title": "Unternehmen",
+      "about": "Über ReVida",
+      "careers": "Karriere",
+      "press": "Presse",
+      "impact": "Soziale Wirkung",
+      "sustainability": "Nachhaltigkeit"
+    },
+    "support": {
+      "title": "Support",
+      "help": "Hilfecenter",
+      "contact": "Kontakt",
+      "safety": "Sicheres Einkaufen",
+      "report": "Problem melden"
+    },
+    "buyers": {
+      "title": "Käufer",
+      "how": "Wie kaufe ich",
+      "safety": "Sicheres Einkaufen",
+      "protection": "Käuferschutz",
+      "app": "Käufer-App"
+    },
+    "sellers": {
+      "title": "Verkäufer",
+      "how": "Wie verkaufe ich",
+      "rules": "Inseratsregeln",
+      "fees": "Gebühren",
+      "pro": "ReVida Pro",
+      "app": "Verkäufer-App"
+    },
+    "payments": {
+      "title": "Zahlungsmethoden",
+      "cards": "Kredit-/Debitkarten",
+      "paypal": "PayPal",
+      "transfer": "Banküberweisung",
+      "security": "Sichere Zahlungen"
+    },
+    "legal": {
+      "title": "Rechtliches",
+      "terms": "AGB",
+      "privacy": "Datenschutz",
+      "cookies": "Cookie-Richtlinie",
+      "legal": "Impressum"
+    },
+    "address": "Hauptstraße 123, 10115 Berlin, Deutschland",
+    "copyright": "© 2025 ReVida. Alle Rechte vorbehalten."
+  }
+}

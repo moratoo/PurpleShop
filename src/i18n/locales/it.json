@@ -1,0 +1,115 @@
+{
+  "nav": {
+    "explore": "🔍 Esplora",
+    "sell": "💰 Vendi",
+    "free": "🎁 Gratis",
+    "createAccount": "✨ Crea Account"
+  },
+  "auth": {
+    "welcome": "Benvenuto su PurpleShop",
+    "continueWithGoogle": "Continua con Google",
+    "continueWithMicrosoft": "Continua con Microsoft",
+    "continueWithApple": "Continua con Apple",
+    "continueWithFacebook": "Continua con Facebook",
+    "continueWithTwitter": "Continua con X (Twitter)",
+    "termsNotice": "Continuando, accetti i nostri Termini di servizio e la Privacy Policy"
+  },
+  "hero": {
+    "title": "♻️ Una seconda possibilità è possibile con ReVida",
+    "subtitle": "Compra, vendi e regala. Dai una nuova vita agli oggetti che non usi più",
+    "searchPlaceholder": "🔎 Cosa stai cercando?"
+  },
+  "categories": {
+    "title": "📦 Categorie",
+    "free": {
+      "title": "🎁 Gratis",
+      "description": "Trova oggetti che vengono regalati vicino a te"
+    },
+    "secondHand": {
+      "title": "♻️ Usato",
+      "description": "Prodotti usati in ottime condizioni"
+    },
+    "new": {
+      "title": "✨ Nuovo",
+      "description": "Prodotti completamente nuovi"
+    }
+  },
+  "register": {
+    "title": "✨ Crea un account",
+    "fullName": "👤 Nome completo",
+    "fullNamePlaceholder": "Il tuo nome completo",
+    "email": "📧 Email",
+    "emailPlaceholder": "tu@email.com",
+    "password": "🔒 Password",
+    "city": "📍 Città",
+    "cityPlaceholder": "In quale città vivi?",
+    "submit": "✨ Crea Account",
+    "terms": "Creando un account, accetti i nostri termini e condizioni"
+  },
+  "features": {
+    "freeItems": {
+      "title": "🎁 Articoli Gratuiti",
+      "description": "Trova oggetti che vengono regalati vicino a te. Tutto gratis!"
+    },
+    "location": {
+      "title": "📍 Nella Tua Zona",
+      "description": "Scopri prodotti vicino a te. Filtra per posizione e trova ciò di cui hai bisogno"
+    },
+    "secondHand": {
+      "title": "♻️ Prodotti Usati",
+      "description": "Compra e vendi articoli di seconda mano in ottime condizioni"
+    }
+  },
+  "featured": {
+    "title": "⭐ Articoli Gratuiti in Evidenza",
+    "location": "📍 Posizione"
+  },
+  "footer": {
+    "company": {
+      "title": "Azienda",
+      "about": "Chi Siamo",
+      "careers": "Lavora con Noi",
+      "press": "Stampa",
+      "impact": "Impatto Sociale",
+      "sustainability": "Sostenibilità"
+    },
+    "support": {
+      "title": "Supporto",
+      "help": "Centro Assistenza",
+      "contact": "Contattaci",
+      "safety": "Acquisti Sicuri",
+      "report": "Segnala Problema"
+    },
+    "buyers": {
+      "title": "Acquirenti",
+      "how": "Come Acquistare",
+      "safety": "Acquisti Sicuri",
+      "protection": "Protezione Acquirenti",
+      "app": "App Acquirenti"
+    },
+    "sellers": {
+      "title": "Venditori",
+      "how": "Come Vendere",
+      "rules": "Regole Inserzioni",
+      "fees": "Commissioni",
+      "pro": "ReVida Pro",
+      "app": "App Venditori"
+    },
+    "payments": {
+      "title": "Metodi di Pagamento",
+      "cards": "Carte di Credito/Debito",
+      "paypal": "PayPal",
+      "transfer": "Bonifico Bancario",
+      "security": "Pagamenti Sicuri"
+    },
+    "legal": {
+      "title": "Legale",
+      "terms": "Termini e Condizioni",
+      "privacy": "Privacy",
+      "cookies": "Cookie",
+      "legal": "Note Legali"
+    },
+    "address": "Via Roma 123, 00184 Roma, Italia",
+    "copyright": "© 2025 ReVida. Tutti i diritti riservati."
+  }
+}

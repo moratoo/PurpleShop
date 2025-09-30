@@ -1,0 +1,115 @@
+{
+  "nav": {
+    "explore": "🔍 Explorar",
+    "sell": "💰 Vender",
+    "free": "🎁 Grátis",
+    "createAccount": "✨ Criar Conta"
+  },
+  "auth": {
+    "welcome": "Bem-vindo ao PurpleShop",
+    "continueWithGoogle": "Continuar com Google",
+    "continueWithMicrosoft": "Continuar com Microsoft",
+    "continueWithApple": "Continuar com Apple",
+    "continueWithFacebook": "Continuar com Facebook",
+    "continueWithTwitter": "Continuar com X (Twitter)",
+    "termsNotice": "Ao continuar, você concorda com nossos Termos de Serviço e Política de Privacidade"
+  },
+  "hero": {
+    "title": "♻️ Uma segunda chance é possível com ReVida",
+    "subtitle": "Compre, venda e doe. Dê uma nova vida aos objetos que você não usa mais",
+    "searchPlaceholder": "🔎 O que você está procurando?"
+  },
+  "categories": {
+    "title": "📦 Categorias",
+    "free": {
+      "title": "🎁 Grátis",
+      "description": "Encontre objetos sendo doados perto de você"
+    },
+    "secondHand": {
+      "title": "♻️ Segunda Mão",
+      "description": "Produtos usados em excelente estado"
+    },
+    "new": {
+      "title": "✨ Novo",
+      "description": "Produtos totalmente novos"
+    }
+  },
+  "register": {
+    "title": "✨ Criar uma conta",
+    "fullName": "👤 Nome completo",
+    "fullNamePlaceholder": "Seu nome completo",
+    "email": "📧 E-mail",
+    "emailPlaceholder": "voce@email.com",
+    "password": "🔒 Senha",
+    "city": "📍 Cidade",
+    "cityPlaceholder": "Em qual cidade você mora?",
+    "submit": "✨ Criar Conta",
+    "terms": "Ao criar uma conta, você concorda com nossos termos e condições"
+  },
+  "features": {
+    "freeItems": {
+      "title": "🎁 Itens Gratuitos",
+      "description": "Encontre objetos sendo doados perto de você. Tudo grátis!"
+    },
+    "location": {
+      "title": "📍 Na Sua Região",
+      "description": "Descubra produtos perto de você. Filtre por localização e encontre o que precisa"
+    },
+    "secondHand": {
+      "title": "♻️ Produtos Usados",
+      "description": "Compre e venda artigos de segunda mão em excelente estado"
+    }
+  },
+  "featured": {
+    "title": "⭐ Itens Gratuitos em Destaque",
+    "location": "📍 Localização"
+  },
+  "footer": {
+    "company": {
+      "title": "Empresa",
+      "about": "Sobre a ReVida",
+      "careers": "Carreiras",
+      "press": "Imprensa",
+      "impact": "Impacto Social",
+      "sustainability": "Sustentabilidade"
+    },
+    "support": {
+      "title": "Suporte",
+      "help": "Central de Ajuda",
+      "contact": "Contato",
+      "safety": "Compra Segura",
+      "report": "Reportar Problema"
+    },
+    "buyers": {
+      "title": "Compradores",
+      "how": "Como Comprar",
+      "safety": "Compra Segura",
+      "protection": "Proteção ao Comprador",
+      "app": "App para Compradores"
+    },
+    "sellers": {
+      "title": "Vendedores",
+      "how": "Como Vender",
+      "rules": "Regras de Publicação",
+      "fees": "Comissões",
+      "pro": "ReVida Pro",
+      "app": "App para Vendedores"
+    },
+    "payments": {
+      "title": "Formas de Pagamento",
+      "cards": "Cartões de Crédito/Débito",
+      "paypal": "PayPal",
+      "transfer": "Transferência Bancária",
+      "security": "Pagamentos Seguros"
+    },
+    "legal": {
+      "title": "Legal",
+      "terms": "Termos e Condições",
+      "privacy": "Política de Privacidade",
+      "cookies": "Política de Cookies",
+      "legal": "Aviso Legal"
+    },
+    "address": "Rua Principal 123, 01001-000 São Paulo, Brasil",
+    "copyright": "© 2025 ReVida. Todos os direitos reservados."
+  }
+}
